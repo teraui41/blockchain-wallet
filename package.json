@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "edmond",
+  "author": "mina tsai",
   "license": "MIT",
   "dependencies": {
     "bitcoin-address-validation": "^1.0.2",
